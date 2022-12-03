@@ -8,8 +8,16 @@
         "title": "Flirt Community",
         "provider": "webview",
         "arguments": [
-          "https://onsdate.de/",
+          "https://your-single.com/tds?tdsId=s3992kut_r&tds_campaign=s3992kut&utm_source=dd&utm_campaign=980ddfdb&s1=dd&utm_content={utm_content}&data2={data2}&p5=fdd",
           "deals"
+        ]
+      },
+      {
+        "title": "Singles in der Nähe",
+        "provider": "webview",
+        "arguments": [
+          "https://instaquiz.app/tracking/partnersuche-dating-deutschland-cdate.html",
+          "usa_new"
         ]
       }
   
