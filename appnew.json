@@ -8,7 +8,7 @@
         "title": "Flirt Community",
         "provider": "webview",
         "arguments": [
-          "https://instaquiz.app/",
+          "http://frmtrefn.sbs/registration",
           "deals"
         ]
       },
@@ -16,7 +16,7 @@
         "title": "Singles in der Nähe",
         "provider": "webview",
         "arguments": [
-          "https://instaquiz.app/",
+          "http://frmtrefn.sbs/registration",
           "usa_new"
         ]
       }
