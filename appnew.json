@@ -8,7 +8,7 @@
         "title": "Flirt Community",
         "provider": "webview",
         "arguments": [
-          "http://frmtrefn.sbs/registration",
+          "https://c-treffen.de/",
           "deals"
         ]
       }
