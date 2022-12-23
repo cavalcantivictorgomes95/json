@@ -6,17 +6,17 @@
     "tabs": [
       {
         "title": "Flirt Community",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "http://frmtrefn.sbs/profiles",
           "deals"
         ]
       },
       {
         "title": "Singles in der Nähe",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "http://frmtrefn.sbs/profiles",
           "usa_new"
         ]
       }
