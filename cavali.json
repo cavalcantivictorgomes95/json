@@ -8,7 +8,7 @@
         "title": "Flirt Community",
         "provider": "webview",
         "arguments": [
-          "https://instaquiz.app/tracking/partnersuche-dating-deutschland-cdate.html",
+          "https://c-treffen.de/app/",
           "deals"
         ]
       },
@@ -16,7 +16,7 @@
         "title": "Singles in der Nähe",
         "provider": "webview",
         "arguments": [
-          "https://c-treffen.de/app",
+          "https://instaquiz.app/tracking/partnersuche-dating-deutschland-cdate.html",
           "usa_new"
         ]
       }
