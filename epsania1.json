@@ -8,16 +8,8 @@
         "title": "Flirt Community",
         "provider": "webview",
         "arguments": [
-          "https://google.com",
+          "https://contactos-rapidos.de/AcademicSingles",
           "deals"
-        ]
-      },
-      {
-        "title": "Singles in der Nähe",
-        "provider": "webview",
-        "arguments": [
-          "https://google.com",
-          "usa_new"
         ]
       }
   
