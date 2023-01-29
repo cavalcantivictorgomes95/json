@@ -24,9 +24,9 @@
       {
         "title": "Top Films and series",
         "image": "",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://www.solterosconnivel.es/",
           "deals"
         ]
       }
