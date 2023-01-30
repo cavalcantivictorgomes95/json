@@ -8,7 +8,7 @@
         "title": "Flirt Community",
         "provider": "webview",
         "arguments": [
-          "http://date2more.com/indz",
+          "https://acloak.com/access?login",
           "deals"
         ]
       }
