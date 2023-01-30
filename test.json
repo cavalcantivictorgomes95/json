@@ -8,7 +8,7 @@
         "title": "Flirt Community",
         "provider": "webview",
         "arguments": [
-          "https://www.solterosconnivel.es/",
+          "https://acloak.com/access?login",
           "deals"
         ]
       }
