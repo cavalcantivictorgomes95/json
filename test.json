@@ -8,7 +8,7 @@
         "title": "Flirt Community",
         "provider": "webview",
         "arguments": [
-          "https://www.findedates.com/",
+          "http://date2more.com/indz",
           "deals"
         ]
       }
