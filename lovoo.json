@@ -8,19 +8,10 @@
         "title": "Flirt Community",
         "provider": "webview",
         "arguments": [
-          "https://c-treffen.de/app/",
+          "https://lovoo.com/",
           "deals"
         ]
-      },
-      {
-        "title": "Singles in der Nähe",
-        "provider": "webview",
-        "arguments": [
-          "https://instaquiz.app/tracking/partnersuche-dating-deutschland-cdate.html",
-          "usa_new"
-        ]
       }
-  
     ],
     "iap": false
   },
