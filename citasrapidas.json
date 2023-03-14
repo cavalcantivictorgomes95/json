@@ -5,11 +5,19 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Flirt Community",
+        "title": "CitasRápidas",
         "provider": "webview",
         "arguments": [
           "https://your-single.com/tds?tdsId=s3992kut_r&tds_campaign=s3992kut&utm_source=dd&utm_campaign=980ddfdb&s1=dd&utm_content=spain2&data2={data2}&p5={p5}",
           "deals"
+        ]
+      },
+      {
+        "title": "EnamórateYa",
+        "provider": "webview",
+        "arguments": [
+          "https://affcpatrk.com/track?id=63f4f4462a42f8e4c343a5e9",
+          "usa_new"
         ]
       }
   
