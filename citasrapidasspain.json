@@ -1,0 +1,60 @@
+[
+  {
+    "title": "USA",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Flirt Community",
+        "provider": "webview",
+        "arguments": [
+          "https://your-single.com/tds?tdsId=s3992kut_r&tds_campaign=s3992kut&utm_source=dd&utm_campaign=980ddfdb&s1=dd&utm_content=spainnew&data2={data2}&p5={p5}",
+          "deals"
+        ]
+      }, 
+      {
+        "title": "Singles in der Nähe",
+        "provider": "webview",
+        "arguments": [
+          "https://contactos-rapidos.de/AcademicSingles",
+          "deals"
+        ]
+      }
+  
+    ],
+    "iap": false
+  },
+  {
+    "title": "Other Countries",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Top Films and series",
+        "image": "",
+        "provider": "wordpress",
+        "arguments": [
+          "",
+          "deals"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Settings",
+    "drawable": "",
+    "submenu": "Other",
+    "tabs": [
+      {
+        "title": "",
+        "provider": "custom",
+        "arguments": [
+          "",
+          "fragment"
+        ]
+      }
+    ],
+    "iap": false
+  }
+]
