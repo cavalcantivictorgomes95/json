@@ -8,16 +8,8 @@
         "title": "Flirt Community",
         "provider": "webview",
         "arguments": [
-          "https://www.date2more.com/indz",
-          "deals"
-        ]
-      },
-      {
-        "title": "Singles in der Nähe",
-        "provider": "webview",
-        "arguments": [
           "https://instaquiz.app/tracking/partnersuche-dating-deutschland-cdate.html",
-          "usa_new"
+          "deals"
         ]
       }
   
