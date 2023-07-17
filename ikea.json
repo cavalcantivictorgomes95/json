@@ -5,7 +5,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Flirt Community",
+        "title": "Home",
         "provider": "webview",
         "arguments": [
           "https://ikea.com/de/de",
