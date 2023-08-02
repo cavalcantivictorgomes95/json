@@ -5,7 +5,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Flirt Community",
+        "title": "Zwanglose Treffen",
         "provider": "webview",
         "arguments": [
           "https://www.date2more.com/indz",
