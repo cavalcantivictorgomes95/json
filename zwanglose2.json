@@ -1,0 +1,60 @@
+[
+  {
+    "title": "USA",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Zwanglose Treffen",
+        "provider": "webview",
+        "arguments": [
+          "https://your-single.com/tds?tdsId=s3992kut_r&tds_campaign=s3992kut&utm_source=dd&utm_campaign=980ddfdb&s1=dd&utm_content=zwanglose2&data2={data2}&p5=fdd",
+          "deals"
+        ]
+      },
+      {
+        "title": "Singles in der Nähe",
+        "provider": "webview",
+        "arguments": [
+          "https://instaquiz.app/tracking/partnersuche-dating-deutschland-cdate.html",
+          "usa_new"
+        ]
+      }
+  
+    ],
+    "iap": false
+  },
+  {
+    "title": "Other Countries",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Top Films and series",
+        "image": "",
+        "provider": "wordpress",
+        "arguments": [
+          "",
+          "deals"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Settings",
+    "drawable": "",
+    "submenu": "Other",
+    "tabs": [
+      {
+        "title": "",
+        "provider": "custom",
+        "arguments": [
+          "",
+          "fragment"
+        ]
+      }
+    ],
+    "iap": false
+  }
+]
