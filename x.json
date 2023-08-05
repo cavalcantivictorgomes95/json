@@ -8,7 +8,7 @@
         "title": "Home",
         "provider": "webview",
         "arguments": [
-          "https://smrturl.co/8dd2c7b",
+          "https://twitter.com/",
           "deals"
         ]
       }
